@@ -1,0 +1,88 @@
+[debug] [2021-05-29T03:57:03.427Z] ----------------------------------------------------------------------
+[debug] [2021-05-29T03:57:03.429Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Lenovo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-29T03:57:03.430Z] CLI Version:   9.12.0
+[debug] [2021-05-29T03:57:03.430Z] Platform:      win32
+[debug] [2021-05-29T03:57:03.430Z] Node Version:  v16.1.0
+[debug] [2021-05-29T03:57:03.431Z] Time:          Sat May 29 2021 09:42:03 GMT+0545 (Nepal Time)
+[debug] [2021-05-29T03:57:03.431Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-29T03:57:03.437Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-29T03:57:03.437Z] > authorizing via signed-in user (gaire.avinash@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Lenovo\Desktop\React\abnas-tesla
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2021-05-29T03:57:21.533Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2021-05-29T03:57:25.901Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2021-05-29T03:57:25.901Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2021-05-29T04:01:21.659Z] ----------------------------------------------------------------------
+[debug] [2021-05-29T04:01:21.662Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Lenovo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-29T04:01:21.662Z] CLI Version:   9.12.0
+[debug] [2021-05-29T04:01:21.663Z] Platform:      win32
+[debug] [2021-05-29T04:01:21.663Z] Node Version:  v16.1.0
+[debug] [2021-05-29T04:01:21.664Z] Time:          Sat May 29 2021 09:46:21 GMT+0545 (Nepal Time)
+[debug] [2021-05-29T04:01:21.664Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-29T04:01:21.672Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-29T04:01:21.672Z] > authorizing via signed-in user (gaire.avinash@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Lenovo\Desktop\React\abnas-tesla
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
+[debug] [2021-05-29T04:01:46.315Z] ----------------------------------------------------------------------
+[debug] [2021-05-29T04:01:46.317Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Lenovo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-29T04:01:46.317Z] CLI Version:   9.12.0
+[debug] [2021-05-29T04:01:46.317Z] Platform:      win32
+[debug] [2021-05-29T04:01:46.317Z] Node Version:  v16.1.0
+[debug] [2021-05-29T04:01:46.318Z] Time:          Sat May 29 2021 09:46:46 GMT+0545 (Nepal Time)
+[debug] [2021-05-29T04:01:46.318Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-29T04:01:46.324Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-29T04:01:46.324Z] > authorizing via signed-in user (gaire.avinash@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Lenovo\Desktop\React\abnas-tesla
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
